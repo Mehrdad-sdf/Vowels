@@ -1,4 +1,4 @@
-from datetime import datetime  # imports modules
+from datetime import datetime
 
 odds = [x for x in range(1, 60) if x % 2 != 0]
 
